@@ -1,0 +1,407 @@
+{
+  "metadata": {
+    "extracted_at": "2026-09-01T20:03:46.954137",
+    "total_entities": 41,
+    "stats": {
+      "total": 4,
+      "success": 4,
+      "failed": 0
+    }
+  },
+  "entities": [
+    {
+      "type": "Law",
+      "data": {
+        "name": "中华人民共和国刑法",
+        "level": "law",
+        "publish_date": "1997-03-14",
+        "effective_date": "1997-10-01",
+        "issuing_authority": "全国人民代表大会",
+        "description": "为了惩罚犯罪，保护人民，根据宪法，结合我国同犯罪作斗争的具体经验及实际情况而制定。"
+      }
+    },
+    {
+      "type": "Clause",
+      "data": {
+        "name": "中华人民共和国刑法 第二百六十四条",
+        "clause_no": "第二百六十四条",
+        "law_name": "中华人民共和国刑法",
+        "content": "盗窃公私财物，数额较大的，或者多次盗窃、入户盗窃、携带凶器盗窃、扒窃的，处三年以下有期徒刑、拘役或者管制，并处或者单处罚金；数额巨大或者有其他严重情节的，处三年以上十年以下有期徒刑，并处罚金；数额特别巨大或者有其他特别严重情节的，处十年以上有期徒刑或者无期徒刑，并处罚金或者没收财产。",
+        "description": null
+      }
+    },
+    {
+      "type": "Clause",
+      "data": {
+        "name": "中华人民共和国刑法 第一百三十三条",
+        "clause_no": "第一百三十三条",
+        "law_name": "中华人民共和国刑法",
+        "content": "违反交通运输管理法规，因而发生重大事故，致人重伤、死亡或者使公私财产遭受重大损失的，处三年以下有期徒刑或者拘役；交通运输肇事后逃逸或者有其他特别恶劣情节的，处三年以上七年以下有期徒刑；因逃逸致人死亡的，处七年以上有期徒刑。",
+        "description": null
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "盗窃罪",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "危险驾驶",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "故意伤害",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "诈骗罪",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "职务侵占",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "Case",
+      "data": {
+        "name": "陈某盗窃罪一案",
+        "summary": "多次入户盗窃他人财物",
+        "court": "杭州市西湖区人民法院",
+        "judgment_date": null,
+        "result": "判处有期徒刑二年并处罚金"
+      }
+    },
+    {
+      "type": "Law",
+      "data": {
+        "name": "中华人民共和国消费者权益保护法",
+        "level": "law",
+        "publish_date": "1993-10-31",
+        "effective_date": "1994-01-01",
+        "issuing_authority": "全国人民代表大会常务委员会",
+        "description": "为保护消费者的合法权益，维护社会经济秩序，促进社会主义市场经济健康发展而制定。"
+      }
+    },
+    {
+      "type": "Clause",
+      "data": {
+        "name": "中华人民共和国消费者权益保护法 第五十五条",
+        "clause_no": "第五十五条",
+        "law_name": "中华人民共和国消费者权益保护法",
+        "content": "经营者提供商品或者服务有欺诈行为的，应当按照消费者的要求增加赔偿其受到的损失，增加赔偿的金额为消费者购买商品的价款或者接受服务的费用的三倍；增加赔偿的金额不足五百元的，为五百元。法律另有规定的，依照其规定。",
+        "description": null
+      }
+    },
+    {
+      "type": "Clause",
+      "data": {
+        "name": "中华人民共和国消费者权益保护法 第二十三条",
+        "clause_no": "第二十三条",
+        "law_name": "中华人民共和国消费者权益保护法",
+        "content": "经营者应当保证在正常使用商品或者接受服务的情况下其提供的商品或者服务应当具有的质量、性能、用途和有效期限；但消费者在购买该商品或者接受该服务前已经知道其存在瑕疵，且存在该瑕疵不违反法律强制性规定的除外。",
+        "description": null
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "消费欺诈三倍赔偿",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "商品质量问题",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "网络购物纠纷",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "预付卡退款",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "个人信息泄露",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "Law",
+      "data": {
+        "name": "中华人民共和国民法典",
+        "level": "law",
+        "publish_date": "2020-05-28",
+        "effective_date": "2021-01-01",
+        "issuing_authority": "全国人民代表大会",
+        "description": "民法典是新中国第一部以法典命名的法律，调整平等主体的自然人、法人和非法人组织之间的人身关系和财产关系。"
+      }
+    },
+    {
+      "type": "Clause",
+      "data": {
+        "name": "中华人民共和国民法典 第五百六十三条",
+        "clause_no": "第五百六十三条",
+        "law_name": "中华人民共和国民法典",
+        "content": "有下列情形之一的，当事人可以解除合同：（一）因不可抗力致使不能实现合同目的；（二）在履行期限届满前，当事人一方明确表示或者以自己的行为表明不履行主要债务；（三）当事人一方迟延履行主要债务，经催告后在合理期限内仍未履行；（四）当事人一方迟延履行债务或者有其他违约行为致使不能实现合同目的；（五）法律规定的其他情形。",
+        "description": null
+      }
+    },
+    {
+      "type": "Clause",
+      "data": {
+        "name": "中华人民共和国民法典 第一千一百六十五条",
+        "clause_no": "第一千一百六十五条",
+        "law_name": "中华人民共和国民法典",
+        "content": "行为人因过错侵害他人民事权益造成损害的，应当承担侵权责任。依照法律规定推定行为人有过错，其不能证明自己没有过错的，应当承担侵权责任。",
+        "description": null
+      }
+    },
+    {
+      "type": "Clause",
+      "data": {
+        "name": "中华人民共和国民法典 第一千零七十六条",
+        "clause_no": "第一千零七十六条",
+        "law_name": "中华人民共和国民法典",
+        "content": "夫妻双方自愿离婚的，应当签订书面离婚协议，并亲自到婚姻登记机关申请离婚登记。离婚协议应当载明双方自愿离婚的意思表示和对子女抚养、财产以及债务处理等事项协商一致的意见。",
+        "description": null
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "合同违约解除",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "侵权损害赔偿",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "离婚财产分割",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "房屋租赁纠纷",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "民间借贷纠纷",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "Case",
+      "data": {
+        "name": "王某诉李某房屋买卖合同违约案",
+        "summary": "卖方中途拒绝过户",
+        "court": "深圳市福田区人民法院",
+        "judgment_date": null,
+        "result": "判决继续履行合同并承担违约责任"
+      }
+    },
+    {
+      "type": "Law",
+      "data": {
+        "name": "中华人民共和国劳动合同法",
+        "level": "law",
+        "publish_date": "2007-06-29",
+        "effective_date": "2008-01-01",
+        "issuing_authority": "全国人民代表大会常务委员会",
+        "description": "为了完善劳动合同制度，明确劳动合同双方当事人的权利和义务，保护劳动者的合法权益，构建和发展和谐稳定的劳动关系而制定。"
+      }
+    },
+    {
+      "type": "Clause",
+      "data": {
+        "name": "中华人民共和国劳动合同法 第三条",
+        "clause_no": "第三条",
+        "law_name": "中华人民共和国劳动合同法",
+        "content": "订立劳动合同，应当遵循合法、公平、平等自愿、协商一致、诚实信用的原则。依法订立的劳动合同具有约束力，用人单位与劳动者应当履行劳动合同约定的义务。",
+        "description": null
+      }
+    },
+    {
+      "type": "Clause",
+      "data": {
+        "name": "中华人民共和国劳动合同法 第十条",
+        "clause_no": "第十条",
+        "law_name": "中华人民共和国劳动合同法",
+        "content": "建立劳动关系，应当订立书面劳动合同。已建立劳动关系，未同时订立书面劳动合同的，应当自用工之日起一个月内订立书面劳动合同。用人单位与劳动者在用工前订立劳动合同的，劳动关系自用工之日起建立。",
+        "description": null
+      }
+    },
+    {
+      "type": "Clause",
+      "data": {
+        "name": "中华人民共和国劳动合同法 第三十条",
+        "clause_no": "第三十条",
+        "law_name": "中华人民共和国劳动合同法",
+        "content": "用人单位应当按照劳动合同约定和国家规定，向劳动者及时足额支付劳动报酬。",
+        "description": null
+      }
+    },
+    {
+      "type": "Clause",
+      "data": {
+        "name": "中华人民共和国劳动合同法 第八十五条",
+        "clause_no": "第八十五条",
+        "law_name": "中华人民共和国劳动合同法",
+        "content": "用人单位未按照劳动合同的约定或者国家规定及时足额支付劳动者劳动报酬的，由劳动行政部门责令限期支付；逾期不支付的，责令用人单位按应付金额百分之五十以上百分之一百以下的标准向劳动者加付赔偿金。",
+        "description": null
+      }
+    },
+    {
+      "type": "Clause",
+      "data": {
+        "name": "中华人民共和国劳动合同法 第四十七条",
+        "clause_no": "第四十七条",
+        "law_name": "中华人民共和国劳动合同法",
+        "content": "经济补偿按劳动者在本单位工作的年限，每满一年支付一个月工资的标准向劳动者支付。六个月以上不满一年的，按一年计算；不满六个月的，向劳动者支付半个月工资的经济补偿。",
+        "description": null
+      }
+    },
+    {
+      "type": "Clause",
+      "data": {
+        "name": "中华人民共和国劳动合同法 第八十七条",
+        "clause_no": "第八十七条",
+        "law_name": "中华人民共和国劳动合同法",
+        "content": "用人单位违反本法规定解除或者终止劳动合同的，应当依照本法第四十七条规定的经济补偿标准的二倍向劳动者支付赔偿金。",
+        "description": null
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "拖欠工资",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "违法解除劳动合同",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "未签劳动合同",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "经济补偿金争议",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "LegalIssue",
+      "data": {
+        "name": "工伤待遇争议",
+        "description": null,
+        "category": "other",
+        "urgency": "medium"
+      }
+    },
+    {
+      "type": "Case",
+      "data": {
+        "name": "张某诉某科技公司劳动报酬纠纷案",
+        "summary": "某公司拖欠张某三个月工资",
+        "court": "北京市朝阳区人民法院",
+        "judgment_date": null,
+        "result": "判决公司支付拖欠工资及经济补偿"
+      }
+    },
+    {
+      "type": "Case",
+      "data": {
+        "name": "李某诉某餐饮公司违法解除劳动合同案",
+        "summary": "公司无正当理由单方解除劳动合同",
+        "court": "上海市浦东新区人民法院",
+        "judgment_date": null,
+        "result": "判决公司支付二倍赔偿金"
+      }
+    }
+  ]
+}

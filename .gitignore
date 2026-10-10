@@ -1,0 +1,44 @@
+# 环境变量（含真实密钥，严禁提交）
+.env
+.env.local
+.env.*.local
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 日志文件
+logs/
+*.log
+
+# 大模型文件（2GB+，用模型名下载即可）
+models/
+
+# 前端依赖和构建产物
+frontend/node_modules/
+frontend/dist/
+
+# 数据库数据文件
+data/raw/
+data/processed/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.bak

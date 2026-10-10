@@ -1,0 +1,841 @@
+{
+  "metadata": {
+    "extracted_at": "2026-09-01T20:03:46.955525",
+    "total_relations": 119
+  },
+  "relations": [
+    {
+      "type": "CONTAINS",
+      "data": {
+        "law_name": "中华人民共和国刑法",
+        "clause_name": "中华人民共和国刑法 第二百六十四条"
+      }
+    },
+    {
+      "type": "CONTAINS",
+      "data": {
+        "law_name": "中华人民共和国刑法",
+        "clause_name": "中华人民共和国刑法 第一百三十三条"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国刑法 第二百六十四条",
+        "issue_name": "盗窃罪"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国刑法 第二百六十四条",
+        "issue_name": "危险驾驶"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国刑法 第二百六十四条",
+        "issue_name": "故意伤害"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国刑法 第二百六十四条",
+        "issue_name": "诈骗罪"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国刑法 第二百六十四条",
+        "issue_name": "职务侵占"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国刑法 第一百三十三条",
+        "issue_name": "盗窃罪"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国刑法 第一百三十三条",
+        "issue_name": "危险驾驶"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国刑法 第一百三十三条",
+        "issue_name": "故意伤害"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国刑法 第一百三十三条",
+        "issue_name": "诈骗罪"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国刑法 第一百三十三条",
+        "issue_name": "职务侵占"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "陈某盗窃罪一案",
+        "issue_name": "盗窃罪"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "陈某盗窃罪一案",
+        "issue_name": "危险驾驶"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "陈某盗窃罪一案",
+        "issue_name": "故意伤害"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "陈某盗窃罪一案",
+        "issue_name": "诈骗罪"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "陈某盗窃罪一案",
+        "issue_name": "职务侵占"
+      }
+    },
+    {
+      "type": "CITES",
+      "data": {
+        "case_name": "陈某盗窃罪一案",
+        "clause_name": "中华人民共和国刑法 第二百六十四条"
+      }
+    },
+    {
+      "type": "CITES",
+      "data": {
+        "case_name": "陈某盗窃罪一案",
+        "clause_name": "中华人民共和国刑法 第一百三十三条"
+      }
+    },
+    {
+      "type": "APPLIES",
+      "data": {
+        "case_name": "陈某盗窃罪一案",
+        "law_name": "中华人民共和国刑法"
+      }
+    },
+    {
+      "type": "CONTAINS",
+      "data": {
+        "law_name": "中华人民共和国消费者权益保护法",
+        "clause_name": "中华人民共和国消费者权益保护法 第五十五条"
+      }
+    },
+    {
+      "type": "CONTAINS",
+      "data": {
+        "law_name": "中华人民共和国消费者权益保护法",
+        "clause_name": "中华人民共和国消费者权益保护法 第二十三条"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国消费者权益保护法 第五十五条",
+        "issue_name": "消费欺诈三倍赔偿"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国消费者权益保护法 第五十五条",
+        "issue_name": "商品质量问题"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国消费者权益保护法 第五十五条",
+        "issue_name": "网络购物纠纷"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国消费者权益保护法 第五十五条",
+        "issue_name": "预付卡退款"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国消费者权益保护法 第五十五条",
+        "issue_name": "个人信息泄露"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国消费者权益保护法 第二十三条",
+        "issue_name": "消费欺诈三倍赔偿"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国消费者权益保护法 第二十三条",
+        "issue_name": "商品质量问题"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国消费者权益保护法 第二十三条",
+        "issue_name": "网络购物纠纷"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国消费者权益保护法 第二十三条",
+        "issue_name": "预付卡退款"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国消费者权益保护法 第二十三条",
+        "issue_name": "个人信息泄露"
+      }
+    },
+    {
+      "type": "CONTAINS",
+      "data": {
+        "law_name": "中华人民共和国民法典",
+        "clause_name": "中华人民共和国民法典 第五百六十三条"
+      }
+    },
+    {
+      "type": "CONTAINS",
+      "data": {
+        "law_name": "中华人民共和国民法典",
+        "clause_name": "中华人民共和国民法典 第一千一百六十五条"
+      }
+    },
+    {
+      "type": "CONTAINS",
+      "data": {
+        "law_name": "中华人民共和国民法典",
+        "clause_name": "中华人民共和国民法典 第一千零七十六条"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国民法典 第五百六十三条",
+        "issue_name": "合同违约解除"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国民法典 第五百六十三条",
+        "issue_name": "侵权损害赔偿"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国民法典 第五百六十三条",
+        "issue_name": "离婚财产分割"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国民法典 第五百六十三条",
+        "issue_name": "房屋租赁纠纷"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国民法典 第五百六十三条",
+        "issue_name": "民间借贷纠纷"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国民法典 第一千一百六十五条",
+        "issue_name": "合同违约解除"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国民法典 第一千一百六十五条",
+        "issue_name": "侵权损害赔偿"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国民法典 第一千一百六十五条",
+        "issue_name": "离婚财产分割"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国民法典 第一千一百六十五条",
+        "issue_name": "房屋租赁纠纷"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国民法典 第一千一百六十五条",
+        "issue_name": "民间借贷纠纷"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国民法典 第一千零七十六条",
+        "issue_name": "合同违约解除"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国民法典 第一千零七十六条",
+        "issue_name": "侵权损害赔偿"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国民法典 第一千零七十六条",
+        "issue_name": "离婚财产分割"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国民法典 第一千零七十六条",
+        "issue_name": "房屋租赁纠纷"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国民法典 第一千零七十六条",
+        "issue_name": "民间借贷纠纷"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "王某诉李某房屋买卖合同违约案",
+        "issue_name": "合同违约解除"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "王某诉李某房屋买卖合同违约案",
+        "issue_name": "侵权损害赔偿"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "王某诉李某房屋买卖合同违约案",
+        "issue_name": "离婚财产分割"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "王某诉李某房屋买卖合同违约案",
+        "issue_name": "房屋租赁纠纷"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "王某诉李某房屋买卖合同违约案",
+        "issue_name": "民间借贷纠纷"
+      }
+    },
+    {
+      "type": "CITES",
+      "data": {
+        "case_name": "王某诉李某房屋买卖合同违约案",
+        "clause_name": "中华人民共和国民法典 第五百六十三条"
+      }
+    },
+    {
+      "type": "CITES",
+      "data": {
+        "case_name": "王某诉李某房屋买卖合同违约案",
+        "clause_name": "中华人民共和国民法典 第一千一百六十五条"
+      }
+    },
+    {
+      "type": "CITES",
+      "data": {
+        "case_name": "王某诉李某房屋买卖合同违约案",
+        "clause_name": "中华人民共和国民法典 第一千零七十六条"
+      }
+    },
+    {
+      "type": "APPLIES",
+      "data": {
+        "case_name": "王某诉李某房屋买卖合同违约案",
+        "law_name": "中华人民共和国民法典"
+      }
+    },
+    {
+      "type": "CONTAINS",
+      "data": {
+        "law_name": "中华人民共和国劳动合同法",
+        "clause_name": "中华人民共和国劳动合同法 第三条"
+      }
+    },
+    {
+      "type": "CONTAINS",
+      "data": {
+        "law_name": "中华人民共和国劳动合同法",
+        "clause_name": "中华人民共和国劳动合同法 第十条"
+      }
+    },
+    {
+      "type": "CONTAINS",
+      "data": {
+        "law_name": "中华人民共和国劳动合同法",
+        "clause_name": "中华人民共和国劳动合同法 第三十条"
+      }
+    },
+    {
+      "type": "CONTAINS",
+      "data": {
+        "law_name": "中华人民共和国劳动合同法",
+        "clause_name": "中华人民共和国劳动合同法 第八十五条"
+      }
+    },
+    {
+      "type": "CONTAINS",
+      "data": {
+        "law_name": "中华人民共和国劳动合同法",
+        "clause_name": "中华人民共和国劳动合同法 第四十七条"
+      }
+    },
+    {
+      "type": "CONTAINS",
+      "data": {
+        "law_name": "中华人民共和国劳动合同法",
+        "clause_name": "中华人民共和国劳动合同法 第八十七条"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第三条",
+        "issue_name": "拖欠工资"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第三条",
+        "issue_name": "违法解除劳动合同"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第三条",
+        "issue_name": "未签劳动合同"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第三条",
+        "issue_name": "经济补偿金争议"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第三条",
+        "issue_name": "工伤待遇争议"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第十条",
+        "issue_name": "拖欠工资"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第十条",
+        "issue_name": "违法解除劳动合同"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第十条",
+        "issue_name": "未签劳动合同"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第十条",
+        "issue_name": "经济补偿金争议"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第十条",
+        "issue_name": "工伤待遇争议"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第三十条",
+        "issue_name": "拖欠工资"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第三十条",
+        "issue_name": "违法解除劳动合同"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第三十条",
+        "issue_name": "未签劳动合同"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第三十条",
+        "issue_name": "经济补偿金争议"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第三十条",
+        "issue_name": "工伤待遇争议"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第八十五条",
+        "issue_name": "拖欠工资"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第八十五条",
+        "issue_name": "违法解除劳动合同"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第八十五条",
+        "issue_name": "未签劳动合同"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第八十五条",
+        "issue_name": "经济补偿金争议"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第八十五条",
+        "issue_name": "工伤待遇争议"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第四十七条",
+        "issue_name": "拖欠工资"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第四十七条",
+        "issue_name": "违法解除劳动合同"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第四十七条",
+        "issue_name": "未签劳动合同"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第四十七条",
+        "issue_name": "经济补偿金争议"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第四十七条",
+        "issue_name": "工伤待遇争议"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第八十七条",
+        "issue_name": "拖欠工资"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第八十七条",
+        "issue_name": "违法解除劳动合同"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第八十七条",
+        "issue_name": "未签劳动合同"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第八十七条",
+        "issue_name": "经济补偿金争议"
+      }
+    },
+    {
+      "type": "REGULATES",
+      "data": {
+        "clause_name": "中华人民共和国劳动合同法 第八十七条",
+        "issue_name": "工伤待遇争议"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "张某诉某科技公司劳动报酬纠纷案",
+        "issue_name": "拖欠工资"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "张某诉某科技公司劳动报酬纠纷案",
+        "issue_name": "违法解除劳动合同"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "张某诉某科技公司劳动报酬纠纷案",
+        "issue_name": "未签劳动合同"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "张某诉某科技公司劳动报酬纠纷案",
+        "issue_name": "经济补偿金争议"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "张某诉某科技公司劳动报酬纠纷案",
+        "issue_name": "工伤待遇争议"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "李某诉某餐饮公司违法解除劳动合同案",
+        "issue_name": "拖欠工资"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "李某诉某餐饮公司违法解除劳动合同案",
+        "issue_name": "违法解除劳动合同"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "李某诉某餐饮公司违法解除劳动合同案",
+        "issue_name": "未签劳动合同"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "李某诉某餐饮公司违法解除劳动合同案",
+        "issue_name": "经济补偿金争议"
+      }
+    },
+    {
+      "type": "INVOLVES",
+      "data": {
+        "case_name": "李某诉某餐饮公司违法解除劳动合同案",
+        "issue_name": "工伤待遇争议"
+      }
+    },
+    {
+      "type": "CITES",
+      "data": {
+        "case_name": "张某诉某科技公司劳动报酬纠纷案",
+        "clause_name": "中华人民共和国劳动合同法 第三条"
+      }
+    },
+    {
+      "type": "CITES",
+      "data": {
+        "case_name": "张某诉某科技公司劳动报酬纠纷案",
+        "clause_name": "中华人民共和国劳动合同法 第十条"
+      }
+    },
+    {
+      "type": "CITES",
+      "data": {
+        "case_name": "张某诉某科技公司劳动报酬纠纷案",
+        "clause_name": "中华人民共和国劳动合同法 第三十条"
+      }
+    },
+    {
+      "type": "CITES",
+      "data": {
+        "case_name": "张某诉某科技公司劳动报酬纠纷案",
+        "clause_name": "中华人民共和国劳动合同法 第八十五条"
+      }
+    },
+    {
+      "type": "CITES",
+      "data": {
+        "case_name": "张某诉某科技公司劳动报酬纠纷案",
+        "clause_name": "中华人民共和国劳动合同法 第四十七条"
+      }
+    },
+    {
+      "type": "CITES",
+      "data": {
+        "case_name": "张某诉某科技公司劳动报酬纠纷案",
+        "clause_name": "中华人民共和国劳动合同法 第八十七条"
+      }
+    },
+    {
+      "type": "CITES",
+      "data": {
+        "case_name": "李某诉某餐饮公司违法解除劳动合同案",
+        "clause_name": "中华人民共和国劳动合同法 第三条"
+      }
+    },
+    {
+      "type": "CITES",
+      "data": {
+        "case_name": "李某诉某餐饮公司违法解除劳动合同案",
+        "clause_name": "中华人民共和国劳动合同法 第十条"
+      }
+    },
+    {
+      "type": "CITES",
+      "data": {
+        "case_name": "李某诉某餐饮公司违法解除劳动合同案",
+        "clause_name": "中华人民共和国劳动合同法 第三十条"
+      }
+    },
+    {
+      "type": "CITES",
+      "data": {
+        "case_name": "李某诉某餐饮公司违法解除劳动合同案",
+        "clause_name": "中华人民共和国劳动合同法 第八十五条"
+      }
+    },
+    {
+      "type": "CITES",
+      "data": {
+        "case_name": "李某诉某餐饮公司违法解除劳动合同案",
+        "clause_name": "中华人民共和国劳动合同法 第四十七条"
+      }
+    },
+    {
+      "type": "CITES",
+      "data": {
+        "case_name": "李某诉某餐饮公司违法解除劳动合同案",
+        "clause_name": "中华人民共和国劳动合同法 第八十七条"
+      }
+    },
+    {
+      "type": "APPLIES",
+      "data": {
+        "case_name": "张某诉某科技公司劳动报酬纠纷案",
+        "law_name": "中华人民共和国劳动合同法"
+      }
+    },
+    {
+      "type": "APPLIES",
+      "data": {
+        "case_name": "李某诉某餐饮公司违法解除劳动合同案",
+        "law_name": "中华人民共和国劳动合同法"
+      }
+    }
+  ]
+}
